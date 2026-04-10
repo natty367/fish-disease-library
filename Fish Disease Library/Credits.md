@@ -7,6 +7,12 @@ We’re especially grateful to those who have volunteered their time, expertise,
 - Tony Chen (https://github.com/tonychen091)
 - John Costantino (https://github.com/JohnCos247)
 - Kelly Haugen (https://github.com/kelly-haugen)
+- Natalie Brennan (https://github.com/natty367)
+- Samaneh Mousavi (https://github.com/SamanehM99)
 
 ## Outside contributors
-- Kyle Rogers ([https://github.com/kyro5555])
+- Kyle Rogers (https://github.com/kyro5555)
+- Agustín Piña Elgueda (https://github.com/agustinpina)
+ 
+
+![[manolin_logo_black.png]]
