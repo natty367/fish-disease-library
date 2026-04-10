@@ -60,8 +60,12 @@ First, comment or open a new Issue on the [Github website](https://github.com/ma
 - You'll see your changed files (pictured), then simply write a title e.g 'Update of *disease name*' and short description of the changes you made. 
 - Press the blue **commit file to main** button.
 	- Learn more about commits [here](https://docs.github.com/en/desktop/making-changes-in-a-branch/committing-and-reviewing-changes-to-your-project-in-github-desktop#write-a-commit-message-and-push-your-changes)
+ ![[commit.png]]
+
+- Then click the blue '**Push origin'** button on the right (pictured)
+![[Screenshot 2026-04-10 at 12.34.34.png]]
+
 - This puts your changes on the public GitHub, but to draw attention and get your changes approved to go live in the library, you need to make a Pull Request when you are finished.
-![Commit](./imgs/commit.png)
 
 #### 6. Create a pull request in GitHub
 
