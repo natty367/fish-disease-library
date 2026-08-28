@@ -20,7 +20,7 @@ tags:
 ## Overview
 
 ### What is Gas Bubble Disease (GBD)?
-Gas Bubble Disease (GBD), also termed Gas Bubble Trauma (GBT), is a non-infectious, physically induced condition affecting a broad range of farmed fish species, including Atlantic salmon (*Salmo salar*), rainbow trout (*Oncorhynchus mykiss*), gilthead seabream (*Sparus aurata*), European sea bass (*Dicentrarchus labrax*), and Atlantic cod (*Gadus morhua*). It arises when the total dissolved gas pressure (TGP) of water exceeds local atmospheric and hydrostatic pressure, causing dissolved gases, principally nitrogen (N₂) and oxygen (O₂), to come out of solution and form gas emboli within the blood vessels and tissues of fish [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/gas_bubble_disease.pdf) [3](https://pubmed.ncbi.nlm.nih.gov/9289892/) [14](https://www.tandfonline.com/doi/abs/10.1577/1548-8659(1980)109%3C703:EOGBD%3E2.0.CO%3B2).
+Gas Bubble Disease (GBD), also termed Gas Bubble Trauma (GBT), is a non-infectious, physically induced condition arising from supersaturated water. It can affect any fish species, including farmed species such as Atlantic salmon (*Salmo salar*), rainbow trout (*Oncorhynchus mykiss*), gilthead seabream (*Sparus aurata*), European sea bass (*Dicentrarchus labrax*), and Atlantic cod (*Gadus morhua*). It happens when water holds more dissolved gas than the surrounding pressure can keep in solution, so the excess gas — mainly nitrogen and oxygen — comes out as bubbles inside a fish's blood and tissues. [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/gas_bubble_disease.pdf) [3](https://pubmed.ncbi.nlm.nih.gov/9289892/) [14](https://www.tandfonline.com/doi/abs/10.1577/1548-8659(1980)109%3C703:EOGBD%3E2.0.CO%3B2).
 
 The underlying physics follow Henry's Law: gas solubility in water is proportional to its partial pressure at the gas–water interface. When dissolved gas pressure within fish tissues exceeds the sum of hydrostatic and atmospheric pressure, gases transition from solution to bubbles, a process mechanistically similar to decompression sickness in human divers [14](https://www.tandfonline.com/doi/abs/10.1577/1548-8659(1980)109%3C703:EOGBD%3E2.0.CO%3B2). Nitrogen and oxygen differ in their hazard profile. Nitrogen, being metabolically inert, produces GBD at supersaturation levels as low as **103–118% TGP**, whereas oxygen is consumed by fish tissues and requires approximately **200–285% saturation** to cause equivalent harm [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/gas_bubble_disease.pdf) [3](https://pubmed.ncbi.nlm.nih.gov/9289892/). Total dissolved gas pressure, not any individual gas fraction, determines pathological risk.
 
@@ -47,7 +47,7 @@ GBD can manifest as a **chronic form** at around 103% TGP, characterised by slow
 
 GBD progresses through three characteristic stages [14](https://www.tandfonline.com/doi/abs/10.1577/1548-8659(1980)109%3C703:EOGBD%3E2.0.CO%3B2):
 
-* **Early Stages:** Gas pressure equilibration in tissues with nonlethal cavitation; subtle signs including mild lethargy, slightly reduced feed intake, and early fin-tip whitening. Morbidity increases but mortality remains low [3](https://pubmed.ncbi.nlm.nih.gov/9289892/) [14](https://www.tandfonline.com/doi/abs/10.1577/1548-8659(1980)109%3C703:EOGBD%3E2.0.CO%3B2).
+* **Early Stages:** Microscopic bubbles will appear on the gills [5](https://veterinaryvisioncenter.com/theres-something-in-the-water-gas-bubble-disease-in-fish/) Gas pressure equilibration in tissues with nonlethal cavitation; subtle signs including mild lethargy, slightly reduced feed intake, and early fin-tip whitening. Morbidity increases but mortality remains low [3](https://pubmed.ncbi.nlm.nih.gov/9289892/) [14](https://www.tandfonline.com/doi/abs/10.1577/1548-8659(1980)109%3C703:EOGBD%3E2.0.CO%3B2).
 * **Advanced Stages:** Rapid and heavy mortality with pronounced physical symptoms including visible gas bubbles, exophthalmia, and hemorrhages. Without correction of the supersaturation source, mass die-offs occur within hours at TGP ≥ 120% [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/gas_bubble_disease.pdf) [3](https://pubmed.ncbi.nlm.nih.gov/9289892/) [11](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0342556).
 * **Impact on Fish Health:** GBD severely compromises normal fish function, causing stress, reduced growth rates, swim bladder dysfunction, impaired osmoregulation, and elevated susceptibility to secondary bacterial, viral, and parasitic infections. Fish that survive acute exposure are more vulnerable to GBD upon any subsequent supersaturation event, as tissue damage from prior episodes accelerates re-development of lesions [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/gas_bubble_disease.pdf) [3](https://pubmed.ncbi.nlm.nih.gov/9289892/) [9](https://www.webapps.nwfsc.noaa.gov/assets/26/6581_07202010_120759_Monk.et.al.1997-rev.pdf).
 
@@ -58,20 +58,22 @@ GBD progresses through three characteristic stages [14](https://www.tandfonline.
 * **Non-infectious Condition:** GBD is not caused by a pathogen but by environmental supersaturation of water with dissolved gases, governed by Henry's Law [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/gas_bubble_disease.pdf) [3](https://pubmed.ncbi.nlm.nih.gov/9289892/). When water dissolved gas pressure exceeds atmospheric pressure plus local hydrostatic head, dissolved gases transition from solution to bubbles within fish blood and tissues.
 * **Contributing Factors:**
 
-  + **Supersaturated Water:** High levels of dissolved gases (nitrogen, oxygen) arise from multiple aquaculture-relevant sources including groundwater, pressurised water systems, oxygen injection, rapid water heating, algal photosynthesis in ponds, and hydropower spillway discharge [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/gas_bubble_disease.pdf) [2](https://www.sciencedirect.com/science/article/pii/S0044848610002875) [3](https://pubmed.ncbi.nlm.nih.gov/9289892/).
+  + **Supersaturated Water:** High levels of dissolved gases (nitrogen, oxygen) arise from multiple aquaculture-relevant sources including groundwater, pressurised water systems, oxygen injection, rapid water heating, algal photosynthesis in ponds (especially in combination with still water), and hydropower spillway discharge [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/gas_bubble_disease.pdf) [2](https://www.sciencedirect.com/science/article/pii/S0044848610002875) [3](https://pubmed.ncbi.nlm.nih.gov/9289892/), .
   + **Groundwater and Borehole Sources:** Well water is the most common cause of nitrogen supersaturation in land-based hatcheries, routinely measuring 109–111% TGP when pumped to atmospheric pressure. This is the single most prevalent GBD risk in freshwater salmonid production [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/gas_bubble_disease.pdf) [3](https://pubmed.ncbi.nlm.nih.gov/9289892/).
-  + **Pump Cavitation and Air Entrainment:** Air leaks on the suction side of water supply pumps, or vortex formation in collection sumps, can produce TGP above 110% within minutes [20](https://ejournals.lib.vt.edu/ijra/article/view/1400/1926).
-  + **Oxygen Supplementation in RAS:** Pure oxygen injection in recirculating aquaculture systems (RAS), oxygen cones, and pressurised columns dissolve O₂ under elevated pressure. When this water returns to atmospheric conditions in rearing tanks, total gas pressure may reach hazardous levels. Atlantic salmon pre-smolts developed GBD after 14–16 days of exposure to 160–220% dissolved oxygen in controlled trials [2](https://www.sciencedirect.com/science/article/pii/S0044848610002875).
-  + **Water Heating:** Gas solubility decreases as temperature rises. Rapid heating of cold, near-saturated groundwater without downstream degassing creates supersaturation proportional to the temperature increase [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/gas_bubble_disease.pdf).
-  + **Algal Photosynthesis:** In pond and outdoor aquaculture systems, phytoplankton photosynthesis drives dissolved oxygen to 200–300% saturation during afternoon periods, creating daily GBD risk windows [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/gas_bubble_disease.pdf).
+  + **Pump Cavitation and Air Entrainment:** Air leaks on the suction side of water supply pumps, or vortex formation in collection sumps, can cause gas to be forced into solution (by the pressure of the pump) [6](https://books.google.no/books?hl=en&lr=&id=3iVBRZ-NeswC&oi=fnd&pg=PA1&dq=Gas+Supersaturation+in+Fisheries:+Causes,+Concerns,+and+Cures.&ots=HVoidpQ8UX&sig=z3a2zGvlsggKydBV6dgaqI7xBe4&redir_esc=y#v=onepage&q&f=false), [20](https://www.globalseafood.org/advocate/effective-management-avoids-gas-bubble-trauma/). 
+  + **Oxygen Supplementation in RAS:** Pure oxygen injection in recirculating aquaculture systems (RAS), submerged aerators, oxygen cones, and pressurised columns dissolve O₂ under elevated pressure. When this water returns to atmospheric conditions in rearing tanks, total gas pressure may reach hazardous levels. Atlantic salmon pre-smolts developed GBD after 14–16 days of exposure to 160–220% dissolved oxygen in controlled trials [2](https://www.sciencedirect.com/science/article/pii/S0044848610002875).
+  + **Water Heating:** Gas solubility decreases as temperature rises. Rapid heating of cold, near-saturated groundwater without downstream degassing creates supersaturation proportional to the temperature increase [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/gas_bubble_disease.pdf). GBD has been shown to develop when water temperature only increased by 3-5 Celsius [6](https://books.google.no/books?hl=en&lr=&id=3iVBRZ-NeswC&oi=fnd&pg=PA1&dq=Gas+Supersaturation+in+Fisheries:+Causes,+Concerns,+and+Cures.&ots=HVoidpQ8UX&sig=z3a2zGvlsggKydBV6dgaqI7xBe4&redir_esc=y#v=onepage&q&f=false) 
+  + **Algal Photosynthesis:** Most common in pond and outdoor aquaculture systems, phytoplankton photosynthesis drives dissolved oxygen to 200–300% saturation during afternoon periods, creating daily GBD risk windows. Still water exacerbates this problem by limiting the ways excess gas can escape [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/gas_bubble_disease.pdf), [20](https://www.globalseafood.org/advocate/effective-management-avoids-gas-bubble-trauma/)
   + **Hydropower Spillways:** Water plunging over dam spillways forces air into deep plunge pools under pressure, generating TGP of 120–140% in the downstream river reach, a well-documented cause of salmonid GBD mortality in regulated river systems [8](https://cdnsciencepub.com/doi/abs/10.1139/cjfas-2019-0243) [4](https://www.theguardian.com/environment/2024/mar/05/salmon-klamath-river-dam-removal-project).
+  + **Lice Treatment and Transport Boats** Salmonids can develop GBD when loaded at 0.4ata into a wellboat for lice treatment or transport [24](https://www.fhf.no/prosjekter/prosjektbasen/901788/)
 
 
 **Risk Factors**
 
-* **Environmental Factors:** Supersaturation risk is highest in land-based hatcheries and RAS facilities using groundwater, oxygen injection, or water heating. Shallow tank depths (20–30 cm) offer negligible hydrostatic compensation, as depth compensates for supersaturation at approximately 10% TGP per metre; a fish in a 20 cm tank cannot compensate for even 103% TGP [20](https://ejournals.lib.vt.edu/ijra/article/view/1400/1926) [8](https://cdnsciencepub.com/doi/abs/10.1139/cjfas-2019-0243). Sea cage environments are lower risk due to open water exchange and fish access to depth.
+* **Environmental Factors:** Supersaturation risk is highest in land-based hatcheries and RAS facilities using groundwater, oxygen injection, or water heating. Shallow tank depths (20–30 cm) offer negligible hydrostatic compensation, as depth compensates for supersaturation at approximately 10% TGP per metre; a fish in a 20 cm tank cannot compensate for even 103% TGP [8](https://cdnsciencepub.com/doi/abs/10.1139/cjfas-2019-0243). Sea cage environments are lower risk due to open water exchange and fish access to depth.
 * **Farm Management Practices:** Inadequate TGP monitoring, absence of continuous sensors, over-reliance on pure oxygen without downstream degassing, and insufficient equipment inspection all significantly increase GBD risk [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/gas_bubble_disease.pdf) [2](https://www.sciencedirect.com/science/article/pii/S0044848610002875).
-* **Life Stage:** Larvae and fry are most vulnerable, with harmful effects documented at TGP as low as 102% [22](https://www.seafish.org/media/arsjwgs0/sr488.pdf). Atlantic salmon parr are approximately 2% more sensitive than equivalent Pacific salmonid species at the same TGP level [11](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0342556).
+* **Life Stage:** Larvae and fry are most vulnerable, with harmful effects documented at TGP as low as 102% [22](https://www.seafish.org/media/arsjwgs0/sr488.pdf). 
+* **Species:** Some species can tolerate supersaturation better than others, for example rainbow trout can tolerate the same conditions 2-5x longer than Atlantic salmon or Brown trout [11](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0342556)
 
 ### Diagnosis
 
@@ -79,7 +81,7 @@ GBD progresses through three characteristic stages [14](https://www.tandfonline.
 * **Clinical Examination:** Observation of physical symptoms remains the primary field diagnostic method. Key indicators include subcutaneous emphysema over fin bases, unilateral or bilateral exophthalmia, gas bubbles visible in the buccal cavity and gill arches, and fin erosion with whitened tips. Fish floating at the surface or crowding near water inlets in an acute episode are a strong behavioural indicator [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/gas_bubble_disease.pdf).
 * **Laboratory Tests:**
 
-  + **TGP Measurement:** Confirmation of water supersaturation using calibrated saturometers (e.g., Point Four TGP Tracker, OxyGuard TGP Probe, Weiss Saturometer GhPa-400) is essential for establishing causation. Continuous inline sensors with automated alarms at all critical water handling points represent industry best practice [20](https://ejournals.lib.vt.edu/ijra/article/view/1400/1926).
+  + **TGP Measurement:** Confirmation of gas supersaturation in the water using calibrated saturometers (e.g., Point Four TGP Tracker, OxyGuard TGP Probe, Weiss Saturometer GhPa-400) can directly assess gas supersaturation [20](https://www.globalseafood.org/advocate/effective-management-avoids-gas-bubble-trauma/). Continuous inline sensors with automated alarms at all critical water handling points represent industry best practice [20](https://www.globalseafood.org/advocate/effective-management-avoids-gas-bubble-trauma/).
   + **Histopathology:** Microscopic examination of gill lamellae, fin tissue, and internal organs reveals intravascular gas emboli, endothelial cell degeneration and exfoliation, exposed subendothelial connective tissue with fibrin strands, and tissue necrosis, findings pathognomonic for GBD [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/gas_bubble_disease.pdf) [3](https://pubmed.ncbi.nlm.nih.gov/9289892/).
   + **Ultrasound Imaging:** Two-dimensional ultrasound has been validated as an emerging diagnostic tool capable of semi-quantitatively detecting intravascular gas bubbles in Atlantic salmon in vivo, enabling quantification of gas bubble burden without sacrificing fish. This approach offers advantages over visual observation, which cannot quantify internal gas load [21](https://onlinelibrary.wiley.com/doi/abs/10.1111/jfd.14142).
 
@@ -88,6 +90,7 @@ GBD progresses through three characteristic stages [14](https://www.tandfonline.
 * **Distinguishing GBD from Other Conditions:** Exophthalmia is also a presenting sign in bacterial infections such as furunculosis (*Aeromonas salmonicida*), enteric redmouth disease (*Yersinia ruckeri*), and viral conditions. Key differentiators for GBD are: (1) gross gas bubbles visible in multiple external locations simultaneously, (2) concurrent water supersaturation confirmed by TGP measurement, (3) rapid temporal onset associated with an identifiable supersaturation event, and (4) absence of pathogen isolation on bacteriology or PCR [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/gas_bubble_disease.pdf) [3](https://pubmed.ncbi.nlm.nih.gov/9289892/).
 
 ### Treatment and Prevention
+**Prevention** Monitoring TGP for species limits helps prevent chronic and acute cases of GBD from occurring [7](https://www.storre.stir.ac.uk/bitstream/1893/31242/1/Welfare%20Indicators%20for%20farmed%20rainbow%20trout-Noble%20et%20al.-May%202020.pdf ).
 
 **Treatment Options**
 
@@ -120,13 +123,15 @@ GBD progresses through three characteristic stages [14](https://www.tandfonline.
  
 * **Notable Outbreaks:**
  
-  + **United States — Klamath River (2024):** Hundreds of thousands of newly hatched Chinook salmon fry died from GBD during the largest dam removal project in U.S. history. Rapid changes in river hydrodynamics caused acute gas supersaturation that overwhelmed the newly hatched fry before they could access compensatory depth, illustrating the particular vulnerability of early life stages to rapid TGP changes [4](https://www.theguardian.com/environment/2024/mar/05/salmon-klamath-river-dam-removal-project) [5](https://wildlife.ca.gov/News/Archive/fall-run-chinook-salmon-fry-succumb-to-gas-bubble-disease-in-klamath-river).
+  + **United States — Klamath River (2024):** Hundreds of thousands of newly hatched Chinook salmon fry died from GBD during the largest dam removal project in U.S. history. Rapid changes in river hydrodynamics caused acute gas supersaturation that overwhelmed the newly hatched fry before they could access compensatory depth, illustrating the particular vulnerability of early life stages to rapid TGP changes [4](https://www.theguardian.com/environment/2024/mar/05/salmon-klamath-river-dam-removal-project) 
 
   + **United States — Columbia/Snake River System (ongoing):** Downstream supersaturation from hydroelectric dam spillways has caused recurring GBD mortality in migrating salmonids since the 1960s, with TGP of 120–140% documented immediately below major dams. NOAA research confirms that approximately 47% of steelhead displaying acute GBD signs can recover when provided access to compensatory depth, underpinning management strategies that rely on fish behaviour to mitigate exposure [9](https://www.webapps.nwfsc.noaa.gov/assets/26/6581_07202010_120759_Monk.et.al.1997-rev.pdf) [8](https://cdnsciencepub.com/doi/abs/10.1139/cjfas-2019-0243).
 
   + **Norway — Hydropower-Associated Supersaturation (1980s–present):** Gas supersaturation linked to hydropower operations has been documented across Norwegian river systems since the late 1980s, notably contributing to Atlantic salmon population decline in the Vosso watercourse [10](https://bora.uib.no/bora-xmlui/handle/1956/15374). Field studies in two Norwegian rivers recorded significant mortality in landlocked Atlantic salmon commencing at 108.3% TDG (depth-compensated), with mortality escalating sharply above 110% [16](https://link.springer.com/article/10.1007/s10750-020-04439-z). A controlled study exposing landlocked "bleke" Atlantic salmon to 111% TGP found that 90% developed clinical GBD signs within six days despite zero mortality over the study period, suggesting that sublethal field exposures may carry welfare costs not reflected in mortality statistics [12](https://www.nature.com/articles/s41598-024-53637-5).
 
   + **Norway — RAS Oxygen Supplementation, Nofima Marin (2010):** Controlled experiments at a Norwegian research hatchery demonstrated GBD development in juvenile Atlantic salmon pre-smolts under progressive dissolved oxygen supersaturation. Subcutaneous gas bubbles appeared after 14 days at 160% O₂, with 10% of fish developing confirmed GBD at the 130–160% O₂ exposure level and approximately 50% affected at 190% O₂ after 16 days, confirming that oxygen-specific GBD represents a quantifiable risk in intensive salmon RAS production [2](https://www.sciencedirect.com/science/article/pii/S0044848610002875).
+ 
+  + **Czech Republic:** A newly installed tank for a local trout farm resulted in repeated deaths, where fish skin and gills were pale and microscopically gas bubbles could be seen on the gill surface and filaments. Oxygen saturation was measured at 136%. Oxygen was then reduced to 100% and the problem was resolved [23](https://www.agriculturejournals.cz/pdfs/vet/2017/04/09.pdf)
 
 ## Data Insights
 
@@ -185,35 +190,35 @@ Recent studies on Gas Bubble Disease in farmed fish have substantially advanced 
  
 3. **"A meta-analysis of gas bubble trauma in fish"**
    Authors: Pleizier, N. K., Algera, D., Cooke, S. J., & Brauner, C. J.
-   Reference: Pleizier, N. K., Algera, D., Cooke, S. J., & Brauner, C. J. (2020). A meta-analysis of gas bubble trauma in fish. *Fish and Fisheries*, *21*(6), 1175–1194.
-   [Link to study](https://onlinelibrary.wiley.com/doi/10.1111/faf.12496)
+   Reference:  A meta‐analysis of gas bubble trauma in fish. Fish and Fisheries, 21(6), 1175-1194.
+   [Link to study](https://onlinelibrary.wiley.com/doi/abs/10.1111/faf.12496)
  
-4. **"Development of gas bubble disease in juvenile Atlantic salmon exposed to water supersaturated with oxygen"**
-   Authors: Espmark, Å. M., Hjelde, K., & Baeverfjord, G.
-   Reference: Espmark, Å. M., Hjelde, K., & Baeverfjord, G. (2010). Development of gas bubble disease in juvenile Atlantic salmon exposed to water supersaturated with oxygen. *Aquaculture*, *306*(1–4), 198–204.
-   [Link to study](https://www.sciencedirect.com/science/article/pii/S0044848610002875)
+5. **"Documentation of welfare and quality effects on farmed salmon during crowding, loading and transport directly from the deep (Bottom-Up)"**
+   Project leader: Silje Stensby-Skjærvik
+   Reference: Ongoing. Forskningsfondet for fiskeri og akvakultur.
+   [Link to study](https://www.fhf.no/prosjekter/prosjektbasen/901974/)
  
-5. **"Assessment of diagnostic tools to detect acute gas bubble disease in Atlantic salmon (*Salmo salar* L.)"**
+6. **"Assessment of diagnostic tools to detect acute gas bubble disease in Atlantic salmon (*Salmo salar* L.)"**
    Authors: Stensby-Skjærvik, O., et al.
    Reference: Stensby-Skjærvik, O., et al. (2025). Assessment of diagnostic tools to detect acute gas bubble disease in Atlantic salmon (*Salmo salar* L.). *Journal of Fish Diseases*, *48*(5), e14142.
    [Link to study](https://onlinelibrary.wiley.com/doi/abs/10.1111/jfd.14142)
  
-6. **"Acute effects of gas supersaturation on Atlantic salmon smolt in two Norwegian rivers"**
+7. **"Acute effects of gas supersaturation on Atlantic salmon smolt in two Norwegian rivers"**
    Authors: Pulg, U., et al.
    Reference: Pulg, U., et al. (2020). Acute effects of gas supersaturation on Atlantic salmon smolt in two Norwegian rivers. *Hydrobiologia*, *847*(8), 1775–1789.
    [Link to study](https://link.springer.com/article/10.1007/s10750-020-04439-z)
  
-7. **"Effects of hyperoxic water conditions under different total gas pressures in European sea bass (*Dicentrarchus labrax*)"**
+8. **"Effects of hyperoxic water conditions under different total gas pressures in European sea bass (*Dicentrarchus labrax*)"**
    Authors: Lemarié, G., et al.
    Reference: Lemarié, G., et al. (2011). Effects of hyperoxic water conditions under different total gas pressures in European sea bass (*Dicentrarchus labrax*). *Aquaculture*, *311*(1–4), 194–203.
    [Link to study](https://www.sciencedirect.com/science/article/abs/pii/S0044848611002511)
  
-8. **"Establishment of a fish model to study gas-bubble lesions"**
+9. **"Establishment of a fish model to study gas-bubble lesions"**
    Authors: Velázquez-Wallraf, A., et al.
    Reference: Velázquez-Wallraf, A., et al. (2022). Establishment of a fish model to study gas-bubble lesions. *Scientific Reports*, *12*, 6592.
    [Link to study](https://www.nature.com/articles/s41598-022-10539-8)
  
-9. **"Understanding gas bubble trauma in an era of hydropower expansion: How do fish compensate at depth?"**
+10. **"Understanding gas bubble trauma in an era of hydropower expansion: How do fish compensate at depth?"**
    Authors: Pleizier, N. K., Algera, D., Cooke, S. J., & Brauner, C. J.
    Reference: Pleizier, N. K., Algera, D., Cooke, S. J., & Brauner, C. J. (2020). Understanding gas bubble trauma in an era of hydropower expansion: How do fish compensate at depth? *Canadian Journal of Fisheries and Aquatic Sciences*, *77*(3), 506–514.
    [Link to study](https://cdnsciencepub.com/doi/abs/10.1139/cjfas-2019-0243)
@@ -242,28 +247,30 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [Nephrocalcinosis](https://fishdiseases.manolinaqua.com/environmental-&-physical-conditions/nephrocalcinosis.html)
  
 **Citations:**
-[1] https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/gas_bubble_disease.pdf
-[2] https://www.sciencedirect.com/science/article/pii/S0044848610002875
-[3] https://pubmed.ncbi.nlm.nih.gov/9289892/
-[4] https://www.theguardian.com/environment/2024/mar/05/salmon-klamath-river-dam-removal-project
-[5] https://wildlife.ca.gov/News/Archive/fall-run-chinook-salmon-fry-succumb-to-gas-bubble-disease-in-klamath-river
-[6] https://www.adfg.alaska.gov/static/species/disease/pdfs/fish_disease_book.pdf
-[7] https://www.researchgate.net/publication/248341912_Development_of_gas_bubble_disease_in_juvenile_Atlantic_salmon_exposed_to_water_supersaturated_with_oxygen
-[8] https://cdnsciencepub.com/doi/abs/10.1139/cjfas-2019-0243
-[9] https://www.webapps.nwfsc.noaa.gov/assets/26/6581_07202010_120759_Monk.et.al.1997-rev.pdf
-[10] https://bora.uib.no/bora-xmlui/handle/1956/15374
-[11] https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0342556
-[12] https://www.nature.com/articles/s41598-024-53637-5
-[13] https://onlinelibrary.wiley.com/doi/10.1111/faf.12496
-[14] https://www.tandfonline.com/doi/abs/10.1577/1548-8659(1980)109%3C703:EOGBD%3E2.0.CO%3B2
-[15] https://www.sciencedirect.com/science/article/abs/pii/S0044848611002511
-[16] https://link.springer.com/article/10.1007/s10750-020-04439-z
-[17] https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2025/norwegian-fish-health-report-2024/
-[18] https://www.nature.com/articles/s41598-022-10539-8
-[19] https://onlinelibrary.wiley.com/doi/full/10.1111/tbed.13482
-[20] https://ejournals.lib.vt.edu/ijra/article/view/1400/1926
-[21] https://onlinelibrary.wiley.com/doi/abs/10.1111/jfd.14142
-[22] https://www.seafish.org/media/arsjwgs0/sr488.pdf
+[1] Alaska Department of Fish and Game. Disease of Wild and Cultured Fishes in Alaska. "Gas Bubble Disease" pg 108 and 109. https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/gas_bubble_disease.pdf Accessed June, 2026.
+[2] Espmark, Å. M., Hjelde, K., & Baeverfjord, G. (2010). Development of gas bubble disease in juvenile Atlantic salmon exposed to water supersaturated with oxygen. Aquaculture, 306(1-4), 198-204. https://www.sciencedirect.com/science/article/pii/S0044848610002875
+[3] Bohl M. (1997). Gasblasenkrankheit der Fische [Gas bubble disease of fish]. Tierarztliche Praxis, 25(3), 284–288. https://pubmed.ncbi.nlm.nih.gov/9289892/
+[4] M.Singh (5th March, 2024) "Hundreds of thousands of salmon dead from ‘gas bubble disease’ in US river" The Guardian. https://www.theguardian.com/environment/2024/mar/05/salmon-klamath-river-dam-removal-project Accessed June, 2026.
+[5] Veterinary Vision Center. June 1st, 2022. "There’s Something In The Water: Gas Bubble Disease In Fish" Veterinary Vision Centerhttps://veterinaryvisioncenter.com/theres-something-in-the-water-gas-bubble-disease-in-fish/ Accessed August, 2026
+[6] Marking, L. L. (1987). Gas supersaturation in fisheries: causes, concerns, and cures (Vol. 9). US Department of the Interior, Fish and Wildlife Service. https://books.google.no/books?hl=en&lr=&id=3iVBRZ-NeswC&oi=fnd&pg=PA1&dq=Gas+Supersaturation+in+Fisheries:+Causes,+Concerns,+and+Cures.&ots=HVoidpQ8UX&sig=z3a2zGvlsggKydBV6dgaqI7xBe4&redir_esc=y#v=onepage&q&f=false (Accessed August, 2026)
+[7] Noble, C., Gismervik, K., Iversen, M. H., Kolarevic, J., Nilsson, J., Stien, L. H., ... & Nofima, A. S. (2020). Welfare indicators for farmed rainbow trout: tools for assessing fish welfare. https://www.storre.stir.ac.uk/bitstream/1893/31242/1/Welfare%20Indicators%20for%20farmed%20rainbow%20trout-Noble%20et%20al.-May%202020.pdf 
+[8] Pleizier, N. K., Nelson, C., Cooke, S. J., & Brauner, C. J. (2021). Correction: Understanding gas bubble trauma in an era of hydropower expansion: how do fish compensate at depth?. Canadian Journal of Fisheries and Aquatic Sciences, 78(10), 1563-1563. https://cdnsciencepub.com/doi/full/10.1139/cjfas-2021-0207
+[9] Monk, B. H., Absolon, R. F., & Dawley, E. M. (1997). Changes in Gas Bubble Disease Signs and Survival of Migrating Juvenile Salmonids Experimentally Exposed to Supersaturated Gasses: Annual Report 1996. Bonneville Power Administration. https://www.webapps.nwfsc.noaa.gov/assets/26/6581_07202010_120759_Monk.et.al.1997-rev.pdf
+[10] Sondre Kvalsvik Stenberg (2016). Effects of gas supersaturation on migrating Atlantic salmon smolt (Salmo salar) in Evangervatnet. https://hdl.handle.net/1956/15374 https://bora.uib.no/bora-xmlui/handle/1956/15374
+[11] Isaksen, T. E., Pulg, U., Lennox, R. J., Stranzl, S. F., Bye-Ingebrigtsen, E., Handegård, R., & Velle, G. (2026). Tolerance to total dissolved gas supersaturation in Atlantic salmon, brown trout, rainbow trout, and European minnow. Plos one, 21(2), e0342556. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0342556
+[12] Höglund, E., Loland, L.Z., Høgberget, R. et al. No additional stress of sublethal gas supersaturation in a landlocked population of Atlantic salmon (Salmo salar) exposed to environmental acidification. Sci Rep 14, 3482 (2024). https://doi.org/10.1038/s41598-024-53637-5 https://www.nature.com/articles/s41598-024-53637-5
+[13] Pleizier NK, Algera D, Cooke SJ, Brauner CJ. A meta-analysis of gas bubble trauma in fish. Fish Fish. 2020; 21: 1175–1194.  https://onlinelibrary.wiley.com/doi/10.1111/faf.12496
+[14] Bouck, G. R. (1980). Etiology of Gas Bubble Disease. Transactions of the American Fisheries Society, 109(6), 703–707. https://doi.org/10.1577/1548-8659(1980)109<703:EOGBD>2.0.CO;2 https://www.tandfonline.com/doi/abs/10.1577/1548-8659(1980)109%3C703:EOGBD%3E2.0.CO%3B2
+[15] Lemarié, G., Hosfeld, C. D., Breuil, G., & Fivelstad, S. (2011). Effects of hyperoxic water conditions under different total gas pressures in European sea bass (Dicentrarchus labrax). Aquaculture, 318(1-2), 191-198. https://www.sciencedirect.com/science/article/abs/pii/S0044848611002511
+[16]  Stenberg, S.K., Velle, G., Pulg, U. et al. Acute effects of gas supersaturation on Atlantic salmon smolt in two Norwegian rivers. Hydrobiologia 849, 527–538 (2022). https://doi.org/10.1007/s10750-020-04439-z https://link.springer.com/article/10.1007/s10750-020-04439-z
+[17] Moldal T, Wiik-Nielsen J, Oliveira VHS, Svendsen JC and Sommerset I. _Norwegian Fish Health Report, 2024_. Published by the Norwegian Veterinary Institute 2025. https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2025/norwegian-fish-health-report-2024/
+[18] Velázquez-Wallraf, A., Fernández, A., Caballero, M.J. et al. Establishment of a fish model to study gas-bubble lesions. Sci Rep 12, 6592 (2022). https://doi.org/10.1038/s41598-022-10539-8 https://www.nature.com/articles/s41598-022-10539-8
+[19] Muniesa A, Basurco B, Aguilera C, et al. Mapping the knowledge of the main diseases affecting sea bass and sea bream in Mediterranean. Transbound Emerg Dis. 2020; 67: 1089–1100. https://doi.org/10.1111/tbed.13482 
+[20] C.Boyd (PhD) (2nd July 2012). Effective management avoids gas bubble trauma. Global Seafood Alliance. https://www.globalseafood.org/advocate/effective-management-avoids-gas-bubble-trauma/ Accessed August 2026.
+[21] Stensby-Skjærvik, S., Boissonnot, L., Dalum, A.S., Storsul, T., Hess-Erga, O.K., Calabrese, S., Segadal, K., Andersen, L., Wahl-Ovesen, H. and Rønnestad, I. (2025), Assessment of Diagnostic Tools to Detect Acute Gas Bubble Disease in Atlantic Salmon (Salmo salar L.). J Fish Dis, 48: e14142. https://onlinelibrary.wiley.com/doi/abs/10.1111/jfd.14142
+[22] SeaFish - Development Aquaculture. May 2002. "CONTROL OF SUPERSATURATION IN THE HATCHERY" https://www.seafish.org/media/arsjwgs0/sr488.pdf Accessed August, 2026
+[23] Machova, J., Faina, R., Randak, T., Valentova, O., Steinbach, C., Kroupova, H. K., & Svobodova, Z. (2017). Fish death caused by gas bubble disease: a case report. Veterinární medicína, 62(4), 231-237. https://www.agriculturejournals.cz/pdfs/vet/2017/04/09.pdf
+[24]  Forskningsfondet for fiskeri og akvakultur. Project Leader: Ole-Kristian Hess-Erga (NIVA) Project number:901788 Title: "New wellboat knowledge – biological risk factors when using wellboats for the transport and processing of salmon (NYBRØK)" https://www.fhf.no/prosjekter/prosjektbasen/901788/ Accessed August 2026
 
 - - - 
 
